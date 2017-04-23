@@ -23,4 +23,3 @@ sentiment_reader.py : This file takes the files as input, parses and makes the t
 
 lr_classifier.py : This file takes datasets as input and calculates the Precision, Recall, Accuracy and F1 score.
 
-run_classifier.py : This file contains main function that runs the LR classifier (Logistic Regression Classifier)
