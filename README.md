@@ -1,5 +1,5 @@
 # Text-Classification-By-Logistic-Regression-Classifier-Using-Theano
-Claasification of Text using Logistics Regression
+Claasification of Text using Logistic Regression
 
 A Machine Learning concept.
 
